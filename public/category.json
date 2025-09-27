@@ -1,0 +1,74 @@
+[
+  {
+    "id": 19,
+    "name": "All",
+    "slug": "latest",
+    "description": "সবচেয়ে সাম্প্রতিক খবর ও আপডেট"
+  },
+  {
+    "id": 1,
+    "name": "সর্বশেষ",
+    "slug": "latest",
+    "description": "সবচেয়ে সাম্প্রতিক খবর ও আপডেট"
+  },
+  {
+    "id": 2,
+    "name": "বাংলাদেশ",
+    "slug": "bangladesh",
+    "description": "বাংলাদেশের জাতীয় ও স্থানীয় খবর"
+  },
+  {
+    "id": 3,
+    "name": "রাজনীতি",
+    "slug": "politics",
+    "description": "রাজনৈতিক সংবাদ ও বিশ্লেষণ"
+  },
+  {
+    "id": 4,
+    "name": "বিশ্ব",
+    "slug": "international",
+    "description": "বিদেশ ও আন্তর্জাতিক খবর"
+  },
+  {
+    "id": 5,
+    "name": "বাণিজ্য",
+    "slug": "business",
+    "description": "বাণিজ্য, অর্থনীতি ও বাজার সংবাদ"
+  },
+  {
+    "id": 6,
+    "name": "মতামত",
+    "slug": "opinion",
+    "description": "বিশেষজ্ঞদের মতামত ও কলাম"
+  },
+  {
+    "id": 7,
+    "name": "খেলা",
+    "slug": "sports",
+    "description": "খেলাধুলা ও ক্রীড়া সংবাদ"
+  },
+  {
+    "id": 8,
+    "name": "বিনোদন",
+    "slug": "entertainment",
+    "description": "বিনোদন ও সেলিব্রিটি খবর"
+  },
+  {
+    "id": 9,
+    "name": "চাকরি",
+    "slug": "jobs",
+    "description": "চাকরি ও ক্যারিয়ার সংবাদ"
+  },
+  {
+    "id": 10,
+    "name": "জীবনযাপন",
+    "slug": "lifestyle",
+    "description": "লাইফস্টাইল ও স্বাস্থ্য tips"
+  },
+  {
+    "id": 11,
+    "name": "ভিডিও",
+    "slug": "video",
+    "description": "ভিডিও গ্যালারি ও মাল্টিমিডিয়া"
+  }
+]
